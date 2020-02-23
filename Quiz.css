@@ -1,0 +1,51 @@
+h1 {
+	text-align: center;
+	margin: 2px 0 15px 0;
+}
+
+h3 {
+	margin: 2px 0 15px 0;
+	font-family:verdana;
+}
+
+h4 {
+	align-content: center;
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+}
+
+body {
+	margin: 2em;
+	color: black;
+	background-color: #d3d3d3;
+}
+
+.options{
+	border:black;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+.questionDiv{ 
+width: 95%;
+border: 5px solid black;
+padding: 10px;
+margin: 5px;
+}
+
+.btn{
+	font-family:verdana;
+	font-size:200%;
+}
+
+#questionContainter{
+}
+
+@media screen {
+	body {
+	  margin: 2em;
+	  color: black;
+	  background-color: grey;
+	}
+}
+
